@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axgn&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axgn&show_icons=true&theme=tokyonight)
 - 🔭 I am a college student and a programmer.
 - 🌱 I am currently learning deep learning.
 - ❤️ I like programming, math and anything about computer.
