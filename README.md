@@ -10,8 +10,7 @@
       The current goal is to gain an in-depth understanding of some of the content at the 
       intersection of deep learning and image processing, that is, object detection, image 
       classification, target point detection, image segmentation, etc., and then gradually expand 
-      to more content of deep learning and image processing. On the hardware, you need to learn 
-      some interface frameworks and libraries for STM32 and ESP32.
+      to more content of deep learning and image processing.
 
  
 <!--
