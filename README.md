@@ -5,6 +5,8 @@
 
 ---
 
+[![wakatime](https://wakatime.com/badge/user/342fbff3-4a06-49f5-b623-e7c3a1ae7ef1.svg)](https://wakatime.com/@342fbff3-4a06-49f5-b623-e7c3a1ae7ef1)
+
 ## 🧠 About Me
 
 - 💻 I work mostly with **Python**, **C++** and **C** lately.  
