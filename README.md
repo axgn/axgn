@@ -16,9 +16,9 @@
 
 ## 📊 GitHub Stats
 
-![axgn's GitHub stats](github-readme-stats-ecru-ten-10.vercel.app/api?username=axgn&show_icons=true&theme=radical)
+![axgn's GitHub stats](http://github-readme-stats-ecru-ten-10.vercel.app/api?username=axgn&show_icons=true&theme=radical)
 
-![Top Langs](github-readme-stats-ecru-ten-10.vercel.app/api/top-langs/?username=axgn&layout=compact&hide=css,html&theme=radical)
+![Top Langs](http://github-readme-stats-ecru-ten-10.vercel.app/api/top-langs/?username=axgn&layout=compact&hide=css,html&theme=radical)
 
 ---
 
