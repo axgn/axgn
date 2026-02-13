@@ -16,9 +16,9 @@
 
 ## 📊 GitHub Stats
 
-[![axgn's GitHub stats](https://github-readme-stats.vercel.app/api?username=axgn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![axgn's GitHub stats](github-readme-stats-ecru-ten-10.vercel.app/api?username=axgn&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axgn&layout=compact&hide=css,html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](github-readme-stats-ecru-ten-10.vercel.app/api/top-langs/?username=axgn&layout=compact&hide=css,html&theme=radical)
 
 ---
 
