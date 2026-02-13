@@ -37,6 +37,8 @@
 
 ---
 
+![:axgn](https://count.getloli.com/@axgn)
+
 ## 📂 Featured Projects
 
 - 🔹 [智能家居项目客户端1](https://github.com/axgn/esp32home) – 基于freertos esp-idf lvgl 实现的包含屏幕面板，温湿度传感器，灯光控制等功能的智能家居项目
